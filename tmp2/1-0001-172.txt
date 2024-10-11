@@ -1,0 +1,101 @@
+PROFISSIONAIS
+DA MATEMATICA
+
+TÍTULO
+2111-05 Atuário
+2111-10 Especialista em pesquisa operacional - Analista de pesquisa operacional.
+2111-15 Matemático
+2111-20 Matemático aplicado - Matemático computacional; matemático industrial.
+
+DESCRIÇÃO SUMÁRIA
+Elaboram modelos matemáticos e lógicos, identificando problemas e situações de inte-
+resse, selecionando métodos e técnicas, criando métodos, descrevendo modelos em lin-
+guagem matemática, processando simulações computacionais, validando, documentando,
+implementando e refinando modelos. Realizam atividades de pesquisa em matemática,
+tratam dados e informações, desenvolvem produtos e sistemas, executam auditoria
+atuarial. Podem dar aulas e prestar consultorias técnicas.
+
+FORMAÇÃO E EXPERIÊNCIA
+O acesso às ocupações é dado por formação de nível superior, sendo comum profissio-
+nais portadores de títulos de especialização, mestrado ou doutorado.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Os profissionais da matemática aqui descritos são entendidos como matemáticos apli-
+cados que atuam no setor produtivo de empresas privadas e na administração pública.
+Trabalham de forma individual e em equipe multidisciplinar, sem supervisão, exceto o
+atuário que trabalha com supervisão ocasional. Suas atividades consistem em aplicar
+métodos e técnicas da matemática em outras áreas do conhecimento. Dentre as ativi-
+dades econômicas em que atuam destacam-se as instituições financeiras e a área dos
+seguros e da previdência privada. O vínculo de trabalho predominante é o de assala-
+riado com carteira assinada.
+
+CÓDIGO INTERNACIONAL CIVO 88
+3450 - Inspectores de policia y detectives.
+
+NOTAS
+É comum encontrar no mercado de trabalho casos de profissionais da matemática que
+também são professores em diversos níveis de ensino. Para codificá-los, considerar as
+atividades principais.
+
+RECURSOS DE TRABALHO
+Acesso à internet; Banco de dados especializados; Calculadora científica; Calculadora
+financeira; Computadores; Livros e periódicos especializados; Material de expediente;
+Recursos audiovisuais; Softwares especializados.
+
+CÓDIGO 2111
+
+CÓDIGO 2111
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Afonso de Jesus Gonçalves
+Annibal Parracho Sant Anna
+Carlos Augusto Shull Isnard
+Guilherme de Souza Dabul
+Helio Otsuka
+José Luiz Montelo da Fonseca
+José Roberto Pereira Rodrigues
+Liliane de Almeida Maia
+Luciano Duarte
+Michel Spyra
+Milton da Costa Lopes Filho
+Valdemar Rodrigues Filho
+
+Instituições
+
+Actuarial Service Seguros e Previdência Ltda.
+
+Asta - Assessoria Técnica Empresarial
+
+Centro de Pesquisas da Petróleo Brasileiro S.A. (Petrobras-Cenpes)
+Consulprev - Serviços Técnicos em Atuária
+
+Departamento de Matemática da Fundação Universidade de Brasília
+Departamento de Matemática do Instituto de Ciências Exatas da UFMG
+Instituto de Matemática, Estatística e Computação Científica (Imeec-Unicamp)
+Instituto de Matemática Pura e Aplicada (Impa)
+
+Minasprev
+
+RSPP Previdência Privada
+
+Sociedade Brasileira de Pesquisa Operacional (Sobrapo)
+
+Usinas Siderúrgicas de Minas Gerais S.A. (Usiminas)
+
+Instituição Conveniada Responsável
+Centro de Desenvolvimento e Planejamento Regional - Cedeplar - Fundep - UFMG
+
+GLOSSÁRIO
+Resultados: referem-se a teoremas, corolários e teorias, etc.
+
+Conjectura: o mesmo que hipótese, mas entre os matemáticos este é o termo recorrente.
+Reservas Técnicas: reserva obrigatória para honrar benefícios futuros associados a
+
+qualquer produto atuarial.
+
+Produtos e sistemas: sistemas para fazer compras, planos de previdência aberta e
+fechada, títulos de capitalização, seguro, software para simulações de campo petroli-
+
+fero, pacote para simulação de dispersão de poluentes, softwares educacionais.

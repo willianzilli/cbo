@@ -1,0 +1,110 @@
+TÉCNICOS DE
+DESENVOLVIMENTO DE
+SISTEMAS E APLICAÇÕES
+
+TÍTULO
+3171-05 Programador de internet
+3171-10 Programador de sistemas de informação - Programador de computa-
+dor; Programador de processamento de dados; Programador de sistemas de computa-
+dor; Técnico de aplicação (computação); Técnico em programação de computador.
+3171-15 Programador de máquinas - ferramenta com comando numérico
+3171-20 Programador de multimídia - Programador de aplicativos educacionais
+e de entretenimento; Programador de CD-ROM.
+
+DESCRIÇÃO SUMÁRIA
+
+Desenvolvem sistemas e aplicações, determinando interface gráfica, critérios ergonômicos
+de navegação, montagem da estrutura de banco de dados e codificação de programas;
+projetam, implantam e realizam manutenção de sistemas e aplicações; selecionam recur-
+sos de trabalho, tais como metodologias de desenvolvimento de sistemas, linguagem de
+programação e ferramentas de desenvolvimento. Planejam etapas e ações de trabalho.
+
+FORMAÇÃO E EXPERIÊNCIA
+
+Para o exercício dessas ocupações requer-se ensino técnico de nível médio de informática
+ou superior incompleto em áreas como ciências exatas, informática, engenharia. A atuali-
+zação profissional permanente é condição para o seu exercício. O desempenho pleno das
+atividades do programador de máquinas-ferramentas com comando numérico requer de
+rês a quatro anos de experiência. As demais ocupações, de um a dois anos.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+trabalham em atividades de informática e conexas, presentes em todas as atividades eco-
+nômicas. O programador de máquinas-ferramentas com controle númérico se faz presen-
+e na indústria. O programador de sistema de informação e o prgramador de maquinas-
+erramentas com controle numérico são, predominantemente, empregados com carteira
+assinada, ao passo que o programador de multimídia trabalha também como autônomo.
+As atividades são realizadas no horário diurno, exceto o programador de sistemas de
+informação, que realiza suas atividades no horário noturno, e o programador de internet,
+que trabalha em horários irregulares. Todas as atividades se desenvolvem em ambiente
+fechado. Trabalham individualmente e com supervisão ocasional, exceto o programador
+de internet, o programador de multimídia e o programador de sistemas de informação,
+que podem, eventualmente, trabalhar em equipe. Em algumas ocupações, é possível o
+trabalho a distância. No exercício das atividades, podem permanecer em posições.
+
+CÓDIGO INTERNACIONAL CIUO 88
+3121 - Técnicos en programación informática.
+
+RECURSOS DE TRABALHO
+Aplicativo de segurança (firewall; Bibliotecas de funções; Compiladores; Desenhos de
+peças; Editor de imagem, vídeo e som; Editor de texto e programas; Ferramentas; Má-
+quinas; Programa de linguagem de máquina de usinagem; Servidor de internet (web).
+
+CÓDIGO 3171
+
+FA PARTICIPANTES DA DESCRIÇÃO
+
+CÓDIGO 31 M Especialistas
+Aluizio Fernandes Filho
+Antônio Alípio Oliveira Neto
+Átila de Barros Naddeo
+Carlos Alberto Alves Rodrigues
+Carmen Rosa Sanchez Zelaya
+Elisabete Borges Tavares Marques
+Fernando Pacelli Cândido
+Juliana Poni Monteiro de Castro
+Mário Paulo Aguiar Ribeiro
+Milton Carlos Coelho Tinoco
+Neilton Pereira de Lima
+Ronalde César Coelho
+Signey Garcia de Oliveira
+Wesley Vieira Campos
+
+Instituições
+
+Caixa Econômica Federal
+
+Centro de Desenvolvimento e Planejamento Regional (Cedeplar)
+Centro de Pesquisas da Petróleo Brasileiro S.A. (Petrobras-Cenpes)
+Companhia de Processamento de Dados de Minas Gerais (Prodemge)
+Departamento de Matemática do Instituto de Ciências Exatas da UFMG
+Internet Business Online Ltda.
+
+Porta? 1. Com
+
+Serviço Federal de Processamento de Dados (Serpro)
+
+Shoptime. Com
+
+Telemar Norte Leste S.A.
+
+Usinas Siderúrgicas Minas Gerais S.A. (Usiminas)
+
+Instituição Conveniada Responsável
+Centro de Desenvolvimento e Planejamento Regional - Cedeplar - Fundep - UFMG
+
+GLOSSÁRIO
+CNC: comando numérico computadorizado.
+Mídias interativas: CD-rom, internet.
+Periféricos: scanner, impressora, kit multimídia, monitor, zip drive, modem, caixas de
+som, leitor de código de barras, mouse.
+Ferramentas de desenvolvimento: programas que auxiliam na produção de aplicativos
+para o usuário final.
+Compiladores e programas: case-computer-aided software engineering; upper lower case
+Bibliotecas externas de funções: o código principal do programa fica em um arquivo.
+As bibliotecas externas de funções são outros arquivos que no processo de compilação
+são unidos ao arquivo do código principal.
+Componentes externos: o programa executável fica em um arquivo. Os componentes
+externos são outros arquivos com métodos, que auxiliam o programa principal na exe-
+cução de determinadas tarefas.
+

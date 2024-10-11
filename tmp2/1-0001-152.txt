@@ -1,0 +1,88 @@
+ENGENHEIROS
+MECATRÔNICOS
+
+TÍTULO
+2021-05 Engenheiro Mecatrônico
+
+DESCRIÇÃO SUMÁRIA
+Projetam, implementam, testam o funcionamento e aperfeiçoam sistemas automatiza-
+dos. Realizam manutenção, elaboram documentação técnica e assessoram a comercia-
+lização dos mesmos. Podem coordenar equipe de trabalho e ministrar treinamentos na
+área de mecatrônica.
+
+FORMAÇÃO E EXPERIÊNCIA
+Para o exercício desta ocupação requer-se formação superior em Engenharia mecatrô-
+nica e áreas afins e registro no Crea. Trata-se de uma formação híbrida, tendo como
+base a engenharia mecânica que se integra com conhecimentos de eletrônica, robótica,
+informática e sistemas de automação. Há também oferta de cursos pós-universitários.
+Como a formação é recente, para ocupar uma vaga como titular requer-se de um a
+dois anos de experiência.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Trabalham na indústria automotiva, aeronáutica e siderúrgica, na extração de minerais
+metálicos, petróleo e gás natural e na fabricação de máquinas e equipamentos. Geral-
+mente são as empresas de médio e grande porte que absorvem esse tipo de mão-de-
+obra especializada. São empregados assalariados e as atividades são supervisionadas
+ocasionalmente. Trabalham em equipes intra e multidisciplinares, em ambiente fechado,
+em horários diurno ou irregulares. Em algumas atividades, podem ser expostos a ma-
+teriais tóxicos, ruído intenso, altas temperaturas e radiações.
+
+CÓDIGO INTERNACIONAL CIVO 88
+2149 - Arquitectos, ingenieros y afines, no clasificados bajo otros epígrafes.
+
+NOTAS
+Norma Regulamentadora: Lei nº 5.194, de 24 de dezembro de 1966 - Regula o exerci-
+
+cio das profissões de engenheiro, arquiteto e engenheiro agrônomo e dá outras provi-
+dências. Lei nº 8.195, de 26 de junho de 1991 - Altera a Lei nº 5.194/66.
+
+RECURSOS DE TRABALHO
+Aparelhos de diagnóstico (raio X, gama, ultra-som); Aparelhos de medição; Atuadores
+(cilindros, válvulas, etc); Calculadora científica; Computador; Controlador lógico pro-
+gramável (CLP); Microcontroladores; Microprocessadores; Sensores; Softwares especi-
+ficos (cad, matlab, simulink).
+
+CÓDIGO 2021
+
+CÓDIGO 2021
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Antonio Luiz Gomes Reis Junior
+Ayrton Possidente Freitas Junior
+Fábio Alonso da Silva
+Frederico Dias Jannotti
+Gastão Rodrigues Paiva
+Jairo Scherrer Júnior
+Leonardo Domiciano dos Santos
+Ricardo de Assis Lomez
+Vagner Roberto de Lima
+
+Instituições
+
+Companhia Energética do Estado de Minas Gerais (Cemig)
+Companhia Siderúrgica de Tubarão (CST)
+
+Embraer - Empresa Brasileira de Aeronáutica S.A.
+
+Fundação de Ciências Aplicadas - Escola Volkswagen
+
+Magnesita S.A.
+
+Orteng Equipamentos e Sistemas Ltda.
+
+Petróleo Brasileiro S.A. - Refinaria Gabriel Passos (Petrobras-Regap)
+Volkswagen do Brasil Ltda.
+
+Instituição Conveniada Responsável
+Centro de Desenvolvimento e Planejamento Regional - Cedeplar - Fundep - UFMG
+
+GLOSSÁRIO
+Sistemas automatizados: são equipamentos, processos, produtos e serviços que utili-
+zam, de forma integrada, sistemas eletrônicos e mecânicos.
+Produto: resultado final de um processo mecatrônico. Um carro, por exemplo. Sistema
+automatizado: linha de montagem.
+
+Processos: etapas da produção que utiliza de forma integrada, sistemas eletrônicos e
+mecânicos.

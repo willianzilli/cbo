@@ -1,0 +1,89 @@
+OPERADORES DE .
+VEICULOS SUBAQUATICOS
+CONTROLADOS
+REMOTAMENTE
+
+TÍTULO
+
+7813-05 Operador de veículos subaquáticos controlados remotamente - Ope-
+rador de ROV: Piloto de ROV.
+
+DESCRIÇÃO SUMÁRIA
+
+Operam veículos remotamente controlados (robôs), orientando-se por instrumentos
+de navegação para gerar imagens e realizar inspeções e intervenções em estruturas e
+equipamentos submarinos. Planejam, mobilizam e documentam atividades de opera-
+ções do sistema ROV. Realizam manutenção de equipamentos, diagnosticando defeitos
+e falhas, reparando e substituindo componentes mecânicos e eletroeletrônicos. Traba-
+lham seguindo normas de segurança, higiene, qualidade e preservação ambiental.
+
+FORMAÇÃO E EXPERIÊNCIA
+
+Para o exercício dessas ocupações requer-se ensino médio e curso profissionalizante
+em torno de quatrocentas horas/aula, promovido periodicamente pelas empresas
+da área em convênio com instituições de formação profissional. O pleno desempe-
+nho das atividades ocorre entre três e quatro anos de experiência profissional. A(s)
+ocupação(ões) elencada(s) nesta família ocupacional demanda formação profissio-
+nal para efeitos do cálculo do número de aprendizes a serem contratados pelos es-
+tabelecimentos nos termos do artigo 429 da Consolidação das Leis do Trabalho - CLT,
+exceto os casos previstos no art. 10 do Decreto 5.598/2005.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Atuam em empresas que prestam serviços à indústria de extração de petróleo e
+gás natural. São empregados assalariados com carteira assinada, porém tem cres-
+cido o número de profissionais que exercem essas atividades como autônomos. O
+trabalho é em equipe, em sistema de rodízio de turnos e com supervisão perma-
+nente. Atuam em ambiente fechado, confinado e de difícil acesso. Estão expostos a
+ruído intenso e intempéries. Trabalham sob pressão e em posições desconfortáveis
+durante longos períodos.
+
+CÓDIGO INTERNACIONAL CIUO 88
+8172 - Operadores de robots industriales.
+
+RECURSOS DE TRABALHO
+
+Bússolas; Câmeras de vídeo; Computadores; Manipuladores; Monitores de vídeo; Pai-
+néis de instrumento para controle de operação; Sensores; Sistema de lançamento e
+recolhimento do umbilical; Sonar; Transponder.
+
+CÓDIGO 7813
+
+CÓDIGO 7813
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Demetrius de Almeida Tavares
+Evandro Esteves
+Fernando Antonio Moreira Marques
+Gilberto Emiliano da Rocha
+Jairo Antônio Fernandes França
+Luiz Iria de Abbadia
+Paulo Fernando da Silva
+Péricles Machado Ferreira Junior
+Ramon José Roldi
+Reinaldo Pinho de Matos
+Valcenir de Souza Ribeiro
+
+Instituições
+
+Brasflex Tubos Flexíveis Ltda.
+
+Companhia Siderúrgica Paulista (Cosipa)
+
+Dsnd Consub S.A.
+
+Halliburton Subsea Serviços Ltda.
+
+Marsat Serviços Submarinos Ltda.
+
+Sindicato Nacional dos Trabalhadores em Atividades Subaquáticas e afins (Sintasa)
+Stolt Off Shore S.A.
+
+Instituição Conveniada Responsável
+Serviço Nacional de Aprendizagem Industrial - Senai
+
+GLOSSÁRIO
+
+ROV: sigla em inglês de remotely operated vehicle; trata-se de veículo operado remota-
+mente, em meio subaquático (offshore).

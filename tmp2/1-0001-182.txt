@@ -1,0 +1,133 @@
+ANALISTAS
+DE TECNOLOGIA
+DA INFORMAÇÃO
+
+TÍTULO
+
+2124-05 Analista de desenvolvimento de sistemas - Analista de sistemas (in-
+formática); Analista de sistemas para internet; Analista de sistemas web (webmaster);
+Consultor de tecnologia da informação; Tecnólogo em análise de desenvolvimento de
+sistema; Tecnólogo em processamento de dados; Tecnólogo em sistemas para internet.
+
+2124-10 Analista de redes e de comunicação de dados - Analista de comu-
+nicação (teleprocessamento); Analista de rede; Analista de telecomunicação.
+
+2124-15 Analista de sistemas de automação
+
+2124-20 Analista de suporte computacional - Analista de suporte de banco
+de dados; Analista de suporte de sistema; Analista de suporte técnico.
+
+DESCRIÇÃO SUMÁRIA
+
+Desenvolvem e implantam sistemas informatizados dimensionando requisitos e
+funcionalidade dos sistemas, especificando sua arquitetura, escolhendo ferramen-
+tas de desenvolvimento, especificando programas, codificando aplicativos. Admi-
+nistram ambiente informatizado, prestam suporte técnico ao cliente, elaboram do-
+cumentação técnica. Estabelecem padrões, coordenam projetos, oferecem soluções
+para ambientes informatizados e pesquisam tecnologias em informática.
+
+FORMAÇÃO E EXPERIÊNCIA
+
+Para o exercício profissional dessas ocupações, requer-se curso superior completo,
+em nível de bacharelado ou tecnologia. Podem, também, obter formação espe-
+cífica por meio de cursos de qualificação, com carga horária entre duzentas e
+quatrocentas horas. A experiência profissional prévia requerida dos titulares para
+o exercício pleno das atividades é de um a dois anos, incluindo o tempo de estágio.
+Em função da inovação tecnológica, a permanência no mercado de trabalho requer
+atualização contínua dos profissionais.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Exercem suas atividades em qualquer setor da atividade econômica, tais como
+a indústria, o comércio, os serviços, a agropecuária ou a administração pública.
+Podem trabalhar em empresas públicas ou privadas, em geral de médio e grande
+portes. Seu trabalho se desenvolve, majoritariamente em equipe, de forma coope-
+rativa, com supervisão ocasional. Não há predominância de um tipo de vínculo de
+trabalho: os profissionais podem ser assalariados ou trabalhador por conta própria
+e trabalham em período diurno.
+
+CÓDIGO INTERNACIONAL CIVO 88
+2131 - Creadores y analistas de sistemas informáticos.
+
+CÓDIGO 2124
+
+181
+CÓDIGO 2124
+
+RECURSOS DE TRABALHO
+
+Acesso à rede e internet e e-mail; acesso ao SGBD; Ambiente de Desenvolvimen-
+to (conjunto de Software); Ar-condicionado; Dispositivos de armazenamento de
+dados; Equipamento multimídia; Estação de trabalho; Linha telefônica; Mobiliário
+ergonômico; Periféricos
+
+PARTICIPANTES DA DESCRIÇÃO
+
+Especialistas
+Abílio Valério Tozini
+Ademilda Maria de Oliveira
+Alexandre Latorre França
+Carlos Alberto Majer
+Carlos José Videira Lourenço
+Cristiane de Oliveira
+Cristiano de Alencar Laboissiêre
+Eduardo Enrique Ostos Carvalho
+Elaine Aparecida Lopes
+Elcio Benjamim
+Fernando Vieira de Carvalho
+Francisco Marco Camara de Santana
+Hiroshi Jorge Takahashi
+airo Rodrigues do Amaral
+alon Jorge Salun
+unia Costa de Miranda
+Luiz Cláudio Gomes Maia
+
+árcia Aparecida Maluf Abrahão
+
+aria Dalva Resende
+Rodrigo Lemos dos Santos
+Rogério Notini Penido
+hiago Passos Ferraz Moreira
+Wagner Soares de Rosa
+
+Instituições
+
+Banco Santander do Brasil
+
+Banco Sudameris Brasil S.A.
+
+Companhia de Saneamento de Minas Gerais (Copasa)
+Companhia Energética do Estado de Minas Gerais (Cemig)
+Federação das Indústrias do Estado de Minas Gerais (Fiemg)
+IBM Brasil Indústria de Máquinas E Serviços Ltda.
+
+S.A. Estado de Minas
+
+Serviço Federal de Processamento de Dados (Serpro)
+Sociedade Educacional de Santa Catarina
+
+TBA Informática
+
+Terra Networks S.A.
+
+Tivit Tecnologia da Informação S.A.
+
+TOTVS S.A.
+
+Unicid - Universidade Cidade de São Paulo
+
+Usinas Siderúrgicas de Minas Gerais S.A. (Usiminas)
+Instituição Conveniada Responsável CÓDIGO 21 24
+
+Fundação Instituto de Pesquisas Econômicas - Fipe - USP
+
+GLOSSÁRIO
+Plataforma: infraestrutura de hardware e software.
+Sistema: linguagem, ferramentas, etc. Conjunto que manipula as informações.
+SGBD: Sistema de Gerenciamento de Banco de Dados.
+CPD: Centro de Processamento de Dados.
+Ambiente: software + hardware + rede + sistema operacional.
+Codificar: transformar linguagem usual em linguagem computacional.
+Arquitetura do sistema: estrutura/escopo do sistema.
+
+[EEE 103

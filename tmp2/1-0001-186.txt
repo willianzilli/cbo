@@ -1,0 +1,111 @@
+FÍSICOS
+
+TÍTULO
+2131-05 Físico
+2131-10 Físico (acústica)
+2131-15 Físico (atômica e molecular)
+2131-20 Físico (cosmologia) - Cosmológo.
+2131-25 Físico (estatística e matemática)
+2131-30 Físico (fluidos)
+2131-35 Físico (instrumentação)
+2131-40 Físico (matéria condensada) - Físico (estado sólido).
+2131-45 Físico (materiais)
+2131-50 Físico (medicina) - Físico hospitalar; físico médico.
+2131-55 Físico (nuclear e reatores) - físico nuclear
+2131-60 Físico (óptica)
+2131-65 Físico (partículas e campos)
+2131-70 Físico (plasma)
+2131-75 Físico (térmica)
+
+DESCRIÇÃO SUMÁRIA
+Aplicam princípios, conceitos e métodos da física em atividades específicas, aplicam
+técnicas de radiação ionizante e não ionizante em ciências da vida, radiação na agri-
+cultura e conservação de alimentos e podem operar reatores nucleares e equipamentos
+emissores de radiação. Desenvolvem fontes alternativas de energia, projetam sistemas
+eletrônicos, ópticos, de telecomunicações e outros sistemas físicos. Realizam medidas
+de grandezas físicas, desenvolvem programas e rotinas computacionais e elaboram
+documentação técnica e científica.
+
+FORMAÇÃO E EXPERIÊNCIA
+As ocupações exigem para seu exercício, pelo menos, o curso superior completo, sendo
+frequente a presença de profissionais com titulações de pós-graduação e cursos de
+especialização. O exercício pleno das atividades das ocupações geralmente ocorre após
+quatro anos de experiência na área.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Os profissionais podem trabalhar em várias atividades econômicas como, por exemplo, saú-
+de, fabricação de coque, refino de petróleo, produção de combustíveis, inclusive nucleares,
+fabricação de material eletrônico e aparelhos de comunicação. É mais comum encontrar
+esses profissionais em institutos de pesquisa e universidades públicas. Nestes casos, são
+classificados como pesquisadores ou professores. Costumam trabalhar em equipe multi-
+disciplinar com supervisão ocasional. Pode ocorrer que, no exercício de algumas atividades,
+alguns profissionais estejam expostos aos efeitos da radiação e de materiais tóxicos.
+
+CÓDIGO INTERNACIONAL CIVO 88
+2111 - Físicos y astrónomos.
+2241 - Biólogos, botánicos, zoólogos y afines.
+
+CÓDIGO 2131
+
+CÓDIGO 2131 RECURSOS DE TRABALHO
+
+Detectores; Equipamentos de informática; Espectrômetro; Fontes; Infraestrutura básica de
+laboratório; Instrumentos de calibração; Instrumentos de controle; Instrumentos e equi-
+pamentos de medição; Materiais para experimentos; Softwares básicos e específicos.
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Alaor Silvério Chaves
+Eugenio Del Vigna Filho
+Francisco G Emmerich
+Helvécio Correia Mota
+zilda Márcia Ranieri
+oão Batista Santos Barbosa
+oão Carlos Silos Moraes
+orge Luiz Cachoeira Chapot
+osé Antônio Castilho
+Lucila Chebel Labaki
+arcelo Antonio Veloso
+iklaus Ursus Wetter
+Oskar Wessel Bender
+Regis Terenzi Neuenschwander
+Rosa Bernstein Scorzelli
+Stelamaris Rolla Bertoli
+
+Instituições
+Associação Brasileira de Física Médica
+Centro Brasileiro de Pesquisas Físicas
+
+Centro de Desenvolvimento da Tecnologia Nuclear - Comissão Nacional
+de Energia Nuclear (CDTN-CNEN)
+
+Comissão Nacional de Energia Nuclear (CDTN)
+Eletrobrás Termonuclear S.A. (Eletronuclear)
+Faculdade de Engenharia Civil da Unicamp
+
+Instituto de Física Teórica da Universidade Estadual Paulista
+Júlio de Mesquita Filho (Unesp)
+
+Instituto de Pesquisas Energéticas e Nucleares (Ipen)
+
+Instituto de Pesquisas Tecnológicas do Estado de São Paulo S.A. (IPT)
+Laboratório Nacional de Luz Síncrotron
+
+Sociedade Brasileira de Física
+
+Universidade Estadual de São Paulo Júlio de Mesquita Filho -
+Campus de Ilha Solteira (Unesp)
+
+Universidade Federal do Espírito Santo
+
+Instituição Conveniada Responsável
+Centro de Desenvolvimento e Planejamento Regional - Cedeplar - Fundep - UFMG
+
+GLOSSÁRIO
+
+lonização: técnicas que trabalham com o átomo ou grupamentos de átomos com ex-
+cesso ou com falta de carga elétrica negativa.
+
+186
+

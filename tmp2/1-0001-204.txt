@@ -1,0 +1,142 @@
+ENGENHEIROS
+ELETRICISTAS,
+ELETRÔNICOS E AFINS
+
+TÍTULO
+2143-05 Engenheiro eletricista - Engenheiro elétrico; Engenheiro eletrotécnico.
+2143-10 Engenheiro eletrônico
+2143-15 Engenheiro eletricista de manutenção - Engenheiro de manuten-
+ção elétrica.
+2143-20 Engenheiro eletricista de projetos - Engenheiro de projetos elétricos;
+Engenheiro eletrotécnico de projetos.
+2143-25 Engenheiro eletrônico de manutenção - Engenheiro de manutenção
+eletrônica.
+2143-30 Engenheiro eletrônico de projetos - Engenheiro de projetos eletrônicos
+2143-35 Engenheiro de manutenção de telecomunicações
+2143-40 Engenheiro de telecomunicações - Engenheiro de comutação; Enge-
+nheiro de tráfego telefônico; Engenheiro de transmissão.
+2143-45 Engenheiro projetista de telecomunicações - Engenheiro de projetos
+de telecomunicações; Engenheiro de projetos de telefonia.
+2143-50 Engenheiro de redes de comunicação - Engenheiro de sistemas de
+comunicação.
+2143-55 Engenheiro de controle e automação - Engenheiro de automação; En-
+genheiro de controle; Engenheiro de instrumentação.
+2143-60 Tecnólogo em eletricidade - Engenheiro operacional em eletrotécnica.
+2143-65 Tecnólogo em eletrônica
+2143-70 Tecnólogo em telecomunicações - Especialista em telecomunicações
+(tecnólogo); Tecnólogo em redes de telecomunicações; Tecnólogo em sistemas de tele-
+comunicações; Tecnólogo em telemática.
+
+DESCRIÇÃO SUMÁRIA
+
+Executam serviços elétricos, eletrônicos e de telecomunicações, analisando pro-
+postas técnicas, instalando, configurando e inspecionando sistemas e equipamen-
+tos, executando testes e ensaios. Projetam, planejam e especificam sistemas e
+equipamentos elétricos, eletrônicos e de telecomunicações e elaboram sua docu-
+mentação técnica; coordenam empreendimentos e estudam processos elétricos,
+eletrônicos e de telecomunicações.
+
+FORMAÇÃO E EXPERIÊNCIA
+
+O exercício profissional requer formação em uma das áreas de Engenharia: elétrica,
+eletrônica ou telecomunicações ou curso de tecnólogo em uma das áreas, com
+registro no Crea. O exercício pleno das atividades ocorre, em média, com quatro
+anos de exercício profissional para os engenheiros e de 1 a 2 anos para os tecnólo-
+gos, incluindo tempo de estágio. A manutenção do emprego neste domínio requer
+de seus profissionais atualização constante.
+
+CÓDIGO 2143
+
+CÓDIGO 2143
+
+204
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Trabalham em ramos de atividade econômica variados. Na área industrial, encon-
+tram-se na fabricação de máquinas, aparelhos e materiais elétricos e eletrônicos e
+de equipamentos de telecomunicação. É expressiva a presença desses profissionais
+na atividade de serviços de apoio à indústria, tais como empresas de manuten-
+ção, na geração, distribuição e transmissão de energia elétrica, água e gás, e na
+construção civil. Trabalham em empresas pequenas, médias e grandes nas áreas
+pública e privada, como empregados ou prestadores de serviços. Suas atividades
+costumam se desenvolver em equipe multidisciplinar com supervisão ocasional.
+Em algumas atividades, podem estar submetidos a condições especiais de traba-
+lho, por exemplo, grandes alturas, altas temperaturas, ruído intenso, exposição a
+material tóxico, alta tensão e radiação.
+
+CÓDIGO INTERNACIONAL CIUO 88
+2143 - Ingenieros electricistas.
+2144 - Ingenieros electronicistas y de telecomunicaciones.
+
+NOTAS
+
+Podem ocorrer casos de engenheiros eletricistas e eletrônicos que também são
+professores no ensino superior ou pesquisadores. Para codificá-los, considerar as
+atividades principais.
+
+RECURSOS DE TRABALHO
+
+Acesso a internet, e-mail e rede; Calculadora; Calibradores; Computadores e pe-
+riféricos; Equipamento de Proteção Individual (EPI); Ferramentas; Instrumentos de
+medição; Normas, regulamentos e publicações técnicas; Softwares Básicos e Espe-
+cíficos; Telefone/Celular/Rádio.
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Alexandre Sicchieroli Soares
+Anderson Fabiano Batista Ferreira da Costa
+Antônio Carlos Catai
+Carlos Alberto Resende de Andrade
+Carlos Maciel
+Cristiano Miranda Correia Lima
+Daniella Dias C. da Silva
+Danilo Marques Aimola
+Dilmar Malheiros Meira
+Ednardo Moraes da Costa
+Eduardo da Mota Jardim
+Eronides Alves de Oliveira
+Franklin de Carvalho Santos
+Hélio Marques Sobrinho
+Jackson Coutinho Pereira
+José Silvério Barbosa
+Juliano Coelho Santos
+Luciano Assirio Bossi
+Luíz Antônio Consenza
+
+Paulo Roberto Coelho Gomes
+Ricardo Clemente de Souza
+Wagner Delgado Costa Reis
+
+Instituições
+
+Empresa Brasileira de Telecomunicações S.A. (Embratel)
+
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB)
+Serviço Federal de Processamento de Dados (Serpro)
+
+Sindicato dos Tecnólogos do Estado de São Paulo
+
+Starix Informática Ltda.
+
+Telemar Norte Leste S.A.
+
+Usinas Siderúrgicas de Minas Gerais S.A. (Usiminas)
+
+641 TVP João Pessoa S.A.
+
+Instituição Conveniada Responsável
+Ministério do Trabalho e Emprego — MTE
+
+GLOSSÁRIO
+CAD: Sigla em inglês para Computer-Aided Design, - que significa projeto auxiliado por
+computador: conjunto de técnicas, programas e equipamentos especializados, us. para
+a realização computadorizada de projetos de arquitetura ou de engenharia (Aurélio)
+
+CAM: Computer-Aided Manufacturing, - fabricação auxiliada por computador.
+CAE: Computer-Aided Engineering, - engenharia auxiliada por computador.
+
+CÓDIGO 2143
+
+205
+

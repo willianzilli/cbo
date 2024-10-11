@@ -1,0 +1,126 @@
+TÉCNICOS EM OPERAÇÃO
+E MONITORAÇÃO
+DE COMPUTADORES
+
+TÍTULO
+
+3172-05 Operador de computador (inclusive microcomputador) - Operador
+de centro de processamento de dados; Operador de processamento de dados; Opera-
+dor de sistema de computador; Operador de sistemas computacionais em rede; Opera-
+dor de terminal no processamento de dados.
+
+3172-10 Técnico de apoio ao usuário de informática (helpdesk) - Monitorador
+de sistemas e suporte ao usuário;
+
+DESCRIÇÃO SUMÁRIA
+
+Operam sistemas de computadores e microcomputadores, monitorando o desempe-
+nho dos aplicativos, recursos de entrada e saída de dados, recursos de armazenamento
+de dados, registros de erros, consumo da unidade central de processamento (CPU),
+recursos de rede e disponibilidade dos aplicativos. Asseguram o funcionamento do
+hardware e do software; garantem a segurança das informações, por meio de có-
+pias de segurança e armazenando-as em local prescrito, verificando acesso lógico de
+usuário e destruindo informações sigilosas descartadas. Atendem clientes e usuários,
+orientando-os na utilização de hardware e software; inspecionam o ambiente físico
+para segurança no trabalho.
+
+FORMAÇÃO E EXPERIÊNCIA
+
+Para operar plataformas de grande porte (mainframe) e para o técnico de apoio
+ao usuário de informática (exclusive provedores de internet), o requisito mínimo é
+o segundo grau completo. Em ambientes de rede e supercomputadores há super-
+qualificação, com requerimentos que variam de nível superior a pós-graduação em
+informática. O pleno exercício das atividades requer entre três e quatro anos, acom-
+panhados de formação contínua.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Trabalham em vários ramos de atividade econômica e concentram-se em empresas
+de informática e conexas, públicas e privadas, de intermediação financeira (bancos),
+correio e telecomunicações e de ensino. Os operadores de computador trabalham
+em empresas de grande porte que processam grande quantidade de dados. Os que
+atuam em ambiente de rede podem ser encontrados em instituições públicas e pri-
+vadas, de médio e grande porte. São assalariados, com carteira assinada. Trabalham
+individualmente ou em equipe, com supervisão permanente, em ambientes fechados,
+em horários irregulares e em rodízio de turnos. Podem também trabalhar a distância
+(técnico de apoio ao usuário de informática). Eventualmente, trabalham sob pressão
+e expostos a ruído intenso.
+
+CÓDIGO 3172
+
+ESTA FAMÍLIA NÃO COMPREENDE
+
+CÓDIGO 31 72 4223 - Operadores de telemarketing.
+
+CÓDIGO INTERNACIONAL CIUO 88
+3122 - Técnicos en control de equipos informáticos.
+
+RECURSOS DE TRABALHO
+
+Computador (CPU); Hub; Manuais técnicos; Nobreak; Servidores; Softwares; Teclado;
+Unidade de disco; Unidades de fitas (DDS, DLT, cartucho); Vídeo (monitor).
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Adriano Bastos Pereira
+Alessandro Nunes Teixeira
+Ana Flávia Machado
+Carlos Marcos Alves
+Celso Antonio da Silva
+Ederson da Silva Freitas
+Geraldo Augusto de Lima
+Helvecio Cossenzo Pinto
+Isaias Bruno Martins
+Jader Santos
+Márcio Reinhardt
+Milton Célio dos Reis
+Otávio Augusto Carvalho Alves
+Paulo Cezar de Oliveira
+Ricardo Angelo Faroni Santos
+Robson Henrique Suzuki Mello
+Rolner Carvalho Schramm
+Sérgio Araújo Picorelli Massa
+Sérgio Luiz Novaes
+
+Instituições
+
+ABB - Asea Brown Boveri Ltda.
+
+Atento do Brasil S.A.
+
+Banco do Brasil S.A.
+
+Caixa Econômica Federal
+
+Celepar - Companhia de Informática do Paraná
+
+Centro de Pós-Graduação e Pesquisa em Administração da UFMG (Cepead)
+Companhia de Processamento de Dados de Minas Gerais (Prodemge)
+Companhia Energética do Estado de Minas Gerais (Cemig)
+Departamento da Ciência da Computação da UFMG (Fundep-DCC)
+Departamento de Matemática do Instituto de Ciências Exatas da UFMG
+Empresa de Tecnologia e Informações da Previdência Social - Dataprev
+Montreal Informática
+
+Petróleo Brasileiro S.A.
+
+Sociedade Mineira de Cultura CÓDIGO 31 72
+
+Telemar Norte Leste S.A.
+Usinas Siderúrgicas Minas Gerais S.A. (Usiminas)
+
+Instituição Conveniada Responsável
+Centro de Desenvolvimento e Planejamento Regional - Cedeplar - Fundep - UFMG
+
+GLOSSÁRIO
+Recursos de rede: recursos de programas e equipamentos. Trata-se de um termo gené-
+rico para todo e qualquer programa e dispositivo físico de equipamento que pode ser
+compartilhado na rede para todos os usuários autorizados.
+Recursos de entrada e saída de dados: formulários para digitação de dados, emissão de
+relatórios na tela ou impressos em papel, leitor óptico de código de barras (por ser uma
+forma automatizada de entrar com dados em um sistema)
+Recursos de amarzenamento de dados: unidade de disco rígido, unidade de disco flexível
+(disquete), unidade backup, unidade de CD do tipo CD-rom (grava apenas uma vez) ou
+do tipo CD-RW (regravável).
+
+489

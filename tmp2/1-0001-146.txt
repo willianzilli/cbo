@@ -1,0 +1,134 @@
+PROFISSIONAIS DA
+BIOTECNOLOGIA
+
+TÍTULO
+2011-05 Bioengenheiro
+2011-10 Biotecnologista
+2011-15 Geneticista
+
+DESCRIÇÃO SUMÁRIA
+
+Manipulam material genético, sintetizando sequências de DNA, construindo vetores,
+modificando genes in vivo e in vitro, manipulando expressão gênica e gerando orga-
+nismos geneticamente modificados. Analisam genoma, sequenciando-o, identifican-
+do genes e marcadores genéticos; aplicam técnicas de reprodução e multiplicação de
+organismos; produzem compostos biológicos e desenvolvem equipamentos, disposi-
+tivos e processos de uso biológico. Elaboram projetos de pesquisa em biotecnologia
+e bioengenharia.
+
+FORMAÇÃO E EXPERIÊNCIA
+
+Essas ocupações são exercidas por pessoas com formação universitária, geralmente
+pós-graduadas, após três ou quatro anos de exercício profissional, sob supervisão oca-
+sional de profissional experimentado nas áreas de bioengenharia, biotecnologia e ge-
+nética. Por tratar-se de área multidisciplinar, as formações que dão acesso à profissão
+são variadas, tais como ramos de engenharia que atuam na fabricação de equipamen-
+tos e na produção de materiais, biologia, medicina, bioquímica, agronomia, veterinária,
+zootecnia, dentre outras.
+
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+O trabalho é exercido em ambientes fechados e controlados de laboratórios de serviços
+e pesquisa na área de saúde e em complexos hospitalares de excelência, na fabricação
+de equipamentos e instrumentos, de produtos químicos e biotecnológicos, produtos
+agrícolas e de pecuária e serviços relacionados. O trabalhador está sujeito a ruídos, a
+baixas temperaturas, a riscos biológicos e de manipulação de substâncias tóxicas e a
+radiações. As atividades são supervisionadas ocasionalmente. Os profissionais traba-
+lham, majoritariamente, na condição de trabalho assalariado. O horário de trabalho é
+diurno e, eventualmente, há plantões em turno, no caso de laboratórios de pesquisa.
+
+CONSULTE
+2241 - Biólogos e afins.
+
+ESTA FAMÍLIA NÃO COMPREENDE
+2241 - Biólogos e afins.
+3253 - Técnicos de apoio à biotecnologia.
+
+CÓDIGO 2011
+
+CÓDIGO 2011
+
+146
+
+CÓDIGO INTERNACIONAL CIUO 88
+2211 - Biólogos, botánicos, zoólogos y afines.
+
+NOTAS
+
+(1) Na CIVO 88 não existe codificação específica para os profissionais da biotecnologia.
+Por aproximação, podem ser classificados na família 2211 - Biólogos, botânicos, zoó-
+logos e afins.
+
+(2) Os técnicos de nível médio que auxiliam os trabalhos dos profissionais são classifi-
+cados na família ocupacional 3253.
+
+RECURSOS DE TRABALHO
+
+Computador (software e hardware); Equipamentos de esterilização; Equipamentos de in-
+cubação; Equipamentos de proteção individual e coletiva; Equipamentos de purificação.
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Antônio de Pádua Risolia Barbosa
+César Augusto Martins Pereira
+Francisco J. L. Aragão
+Juliana Alves São Julião
+Maria de Fátima Costa Pires
+Milene Silvestrini
+Patrícia Faleiros Pimentel
+Regina Affonso
+Sheyla Maria de Castro Máximo Bicalho
+Veranice Aparecida de Campos Negreiros
+
+Instituições
+
+Empresa Brasileira de Pesquisa Agropecuária (Embrapa)
+Fundação Centro Tecnológico de Minas Gerais
+Fundação Oswaldo Cruz
+
+Genomic Engenharia Molecular Ltda.
+
+nstituto Adolfo Lutz
+
+nstituto Agronômico de Campinas (IAC)
+
+nstituto de Pesquisas Energéticas e Nucleares (Ipen)
+HS Laboratório Químico Ltda.
+
+Laboratório Biogenetics Tecnologia Molecular
+Laboratório de Biomecânica do Hospital das Clínicas da USP
+
+Instituição Conveniada Responsável
+Fundação Instituto de Pesquisas Econômicas - Fipe - USP
+
+GLOSSÁRIO
+ADN: sigla de ácido desoxirribonucleico. Sigla em inglês DNA.
+ARN: ácido ribonucleico. Sigla em inglês RNA.
+DNA: desoxyribonucleic acid.
+RNA: sigla em inglês para ribonucleic acid.
+
+Genes: sequência de DNA; código para um RNA, necessariamente, e/ou para uma
+proteína.
+
+Genoma: toda a sequência de DNA de um organismo.
+
+Expressão gênica: ocorre quando o DNA transcreve o RNA e este se traduz em
+uma proteína.
+
+Marcadores genéticos: sequências de DNA que diferenciam os genótipos.
+
+Equipamentos e dispositivos de uso biológico: biorreatores, válvulas, próteses, mo-
+nitores cardíacos, marcapassos, equipamentos de diagnóstico, etc.
+
+Compostos biologicamente ativos: insulina, hormônios, pilocarpina (substância do
+colírio para glaucoma), etc.
+
+Biomateriais: novas substâncias como polímeros, combustíveis, material para evi-
+tar rejeição, etc.
+
+Manutenção de quinto nível: reforma e reconstrução (retroffiting) ou execução de
+manutenções complexas, delegadas à oficina central ou unidade externa.
+
+CÓDIGO 2011
+
+147

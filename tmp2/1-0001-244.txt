@@ -1,0 +1,255 @@
+MÉDICOS
+
+TÍTULO
+2231-01 Médico acupunturista
+
+2231-02 Médico alergista e imunologista - Alergista; Alergista e imunologista;
+Alergologista; Médico alergista; Médico imunologista.
+
+2231-03 Médico anatomopatologista - Patologista.
+
+2231-04 Médico anestesiologista - Anestesiologista; Anestesista; Médico anestesista.
+2231-05 Médico angiologista - Angiologista.
+
+2231-06 Médico cardiologista - Cardiologista; Médico do coração.
+
+2231-07 Médico cirurgião cardiovascular - Cirurgião cardiovascular.
+
+2231-08 Médico cirurgião de cabeça e pescoço - Cirurgião de cabeça e pescoço.
+2231-09 Médico cirurgião do aparelho digestivo - Cirurgião do aparelho diges-
+tivo; Cirurgião gastroenterológico.
+
+2231-10 Médico cirurgião geral - Cirurgião; Cirurgião geral; Médico cirurgião.
+2231-11 Médico cirurgião pediátrico - Cirurgião pediátrico.
+
+2231-12 Médico cirurgião plástico - Cirurgião plástico.
+
+2231-13 Médico cirurgião torácico - Cirurgião torácico.
+
+2231-14 Médico citopatologista - Citopatologista.
+
+2231-15 Médico clínico - Clínico geral; Médico clínico geral; Médico especialista
+em clínica médica; Médico especialista em medicina interna; Médico internista.
+2231-16 Médico de família e comunidade - Médico comunitário; Médico de família.
+2231-17 Médico dermatologista - Dermatologista; Hansenólogo.
+
+2231-18 Médico do trabalho
+
+2231-19 Médico em eletroencefalografia
+
+2231-20 Médico em endoscopia - Endoscopista; Médico endoscopista.
+
+2231-21 Médico em medicina de tráfego - Médico do tráfego.
+
+2231-22 Médico em medicina intensiva - Ceteista; Intensivista.
+
+2231-23 Médico em medicina nuclear - Médico nuclear.
+
+2231-24 Médico em radiologia e diagnóstico por imagem - Imagenologista;
+Médico angioradiologista; Médico densitometrista; Médico em diagnóstico por ima-
+
+gem; Médico neuroradiologista; Médico radiologista; Médico radiologista intervencio-
+nista; Radiologista; Ultrassonografista.
+
+2231-25 Médico endocrinologista e metabologista - Diabetólogo; Endocrinolo-
+gista; Médico endocrinologista; Médico metabolista; Metabolista; Metabologista.
+
+2231-26 Médico fisiatra - Fisiatra.
+2231-27 Médico foniatra - Foniatra.
+2231-28 Médico gastroenterologista - Gastroenterologista.
+
+2231-29 Médico generalista - Médico alopata; Médico em medicina interna;
+Médico militar.
+
+2231-30 Médico geneticista
+2231-31 Médico geriatra - Geriatra; Gerontologista; Gerontólogo.
+
+2231-32 Médico ginecologista e obstetra - Cirurgião ginecológico; Ginecologis-
+ta; Médico de mulheres; Médico ginecologista; Médico obstetra.
+
+Obstetra;2231-33 médico hematologista - Hematologista.
+2231-34 Médico hemoterapeuta - Hemoterapeuta; Médico em hemoterapia.
+
+CÓDIGO 2231
+
+CÓDIGO 2231
+
+2231-35 Médico homeopata
+
+2231-36 Médico infectologista - Infectologista; Médico de doenças infecciosas e
+parasitárias.
+
+2231-37 Médico legista - Legista.
+
+2231-38 Médico mastologista - Cirurgião de mama; Cirurgião mastologista;
+Mastologista.
+
+2231-39 Médico nefrologista - Nefrologista
+
+2231-40 Médico neurocirurgião - Médico neurocirurgião pediátrico; Neurocirur-
+gião; Neurocirurgião pediátrico.
+
+2231-41 Médico neurofisiologista - Neurofisiologista
+
+2231-42 Médico neurologista - Médico neuropediatra; Neurologista; Neuropediatra.
+2231-43 Médico nutrologista - Médico nutrólogo; Nutrologista.
+
+2231-44 Médico oftalmologista - Cirurgião oftalmológico; Oculista; Oftalmologista.
+
+2231-45 Médico oncologista - Cancerologista; Médico cancerologista; Oncologista.
+
+2231-46 Médico ortopedista e traumatologista - Cirurgião de mão; Cirurgião
+ortopedista; Cirurgião traumatologista; Médico cirurgião de mão; Médico de medicina
+esportiva; Médico ortopedista; Médico traumatologista; Ortopedista; Traumatologista.
+
+2231-47 Médico otorrinolaringologista - Cirurgião otorrinolaringologista; Otorri-
+no; Otorrinolaringologista.
+
+2231-48 Médico patologista clínico - Médico laboratorista; Médico patologista;
+Patologista clínico.
+
+2231-49 Médico pediatra - Hebeatra; Médico de criança; Neonatologista; Pediatra;
+2231-50 Médico perito - Perito médico.
+
+2231-51 Médico pneumologista - Médico pneumotisiologista; Pneumologista;
+Pneumotisiologista; Tisiologista;
+
+2231-52 Médico proctologista - Cirurgião proctologista; Coloproctologista; Proc-
+tologista.
+
+2231-53 Médico psiquiatra - Médico psicanalista; Médico psicoterapeuta; Neurop-
+siquiatra; Psiquiatra.
+
+2231-54 Médico radioterapeuta - Médico em radioterapia; Radioterapeuta.
+2231-55 Médico reumatologista - Reumatologista.
+
+2231-56 Médico sanitarista - Epidemiologista; Higienista; Médico de saúde públi-
+ca; Médico epidemiologista; Médico higienista.
+
+2231-57 Médico urologista - Andrologista; Cirurgião urológico; Cirurgião urologis-
+ta; Urologista.
+
+2231-62 Médico da estratégia de saúde da família
+
+DESCRIÇÃO SUMÁRIA
+Realizam consultas e atendimentos médicos; tratam pacientes e clientes; implementam
+ações de prevenção de doenças e promoção da saúde tanto individuais quanto cole-
+tivas; coordenam programas e serviços em saúde, efetuam perícias, auditorias e sindi-
+câncias médicas; elaboram documentos e difundem conhecimentos da área médica.
+
+FORMAÇÃO E EXPERIÊNCIA
+Essas ocupações são exercidas por profissionais com formação superior em Medici-
+na, credenciados pelo Conselho Regional de Medicina (CRM). O exercício pleno das
+funções se dá após o período de um a dois anos de experiência profissional. Para o
+exercício da função no Programa de Estratégia de Saúde da Família não é necessário
+experiência anterior.
+CONDIÇÕES GERAIS DE EXERCÍCIO
+
+Os profissionais dessa família ocupacional exercem suas funções em setores cujas ativida-
+
+des referem-se a saúde e serviços sociais, ensino, pesquisa e desenvolvimento, de modo
+
+geral atuam por conta própria, na condição de autônomos; sem supervisão permanente.
+
+Organizam-se individualmente e em equipe de trabalho, desenvolvendo as atividades
+em ambientes fechados, em horários de trabalho irregulares. Exceção feita profissionais
+que atuam no Programa de Estratégia de Saúde da Família, onde exercem suas funções
+
+como empregados, com supervisão ocasional e cumprem carga horária semanal previs-
+
+ta em Portaria específica. Podem trabalhar em posições desconfortáveis durante longos
+períodos e, devido à natureza e nível de responsabilidade próprio da função, podem
+estar sujeitos a estresse constante. Em algumas ocupações os profissionais podem estar
+sujeitos à ação de materiais tóxicos, químicos, radioativos e biológicos.
+
+CÓDIGO INTERNACIONAL CIUO 88
+2221 - Médicos.
+
+NOTAS
+Norma Regulamentadora: Lei nº 3.268, de 30 de setembro de 1957 - Dispõe sobre os
+Conselhos de Medicina e dá outras providências. Decreto nº 44.045, de 19 de julho de
+1958 - Aprova o regulamento do Conselho Federal e Conselhos Regionais de Medicina
+a que se refere a Lei nº 3.268/57. Lei nº 6.932, de 07 de julho de 1981 - Dispõe sobre
+as atividades do médico residente e dá outras providências.
+
+RECURSOS DE TRABALHO
+
+Drogas e medicamentos; Equipamentos p/ abordagem das vias aéreas superior; Equi-
+
+pamentos para exames de diagnóstico por imagem; Esfigmomanômetro; Estetoscópio;
+Instrumental cirúrgico; Microscópio; Oftalmoscópio; Otoscópio; Termômetro.
+
+PARTICIPANTES DA DESCRIÇÃO
+Especialistas
+Ana Maria V. B. Ferreira
+Ângela Gabriela Naves Givisiez
+Antônio José Daniel Xavier
+Benedicto Oscar Colli
+Carlos Alberto Ribeiro
+Carlos Eduardo Sampaio Fonseca
+Charles Simão Filho
+Cláudio M. M. Cerqueira
+Débora Magnólia Nogueira Miranda
+Demercindo Brandão Neto
+Eduardo Nakamura
+Eliana Motta Castanheira
+Elizabeto Ribeiro Gonçalves
+Heidwaldo Antônio Seleghini
+Heli T. de Paula Freitas
+Juraci Rosa de Oliveira
+Mário Lavorato da Rocha
+Miguel Alves da Silva
+
+CÓDIGO 2231
+
+CÓDIGO 2231
+
+Oliveiros Guanais de Aguiar
+Oromar Moreira Filho
+Paulo Roberto B. Meirelles
+Ronaldo Vianna Salles
+Samir Faiçal
+
+Sandra C. Cunha Melo
+Télcia V. Barros Magalhães
+Tiago Sousa Neiva
+
+Virgínia Barbeitos Cruz
+
+Instituição
+
+Barion Indústria e Comércio de Alimentos S/A
+Cedrense
+
+Via Delícia
+
+Expertise Consultoria
+
+Laticínio Leite Bom
+
+Ufra - Native Alimentos
+
+Wgc Consultoria em Alimentos
+
+Instituição Conveniada Responsável
+Fundação Instituto de Pesquisas Econômicas - Fipe - USP
+
+GLOSSÁRIO
+
+Anamnese: indagação de alguns dados da história de vida do paciente. Investigação do
+seu estado de saúde geral e específico à especialidade médica.
+
+Doenças prevalentes: medir a pressão arterial para rastrear hipertensão arterial, pes-
+quisar diabetes e hipercolesterolemia pedindo exames de sangue periódicos. Campa-
+nhas para diagnóstico e orientação terapêutica de doenças.
+
+Exemplos no campo da Oftalmologia: glaucoma, retinopatia hipertensiva, retinopatia
+diabética, degeneração macular relacionada à idade e retinopatia da prematuridade.
+Propedêutica instrumental: usar estetoscópio, esfigmomanômetro, termômetro, abai-
+xador de língua, balança, lanterna, otoscópio, rinoscópio, anuscópio, ceratometria, of-
+talmoscopia direta.
+
+UBS: Unidade básica de saúde.
+
+Usuário: título utilizado no programa de Estratégia de Saúde da Família para identificar
+a pessoa que se utiliza do sistema de saúde da família.
